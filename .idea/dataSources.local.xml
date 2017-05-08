@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="db.sqlite3" uuid="8bf1e6a7-f624-4e98-9888-2d40e7af2508">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <secret-storage>master_key</secret-storage>
+      <auth-required>false</auth-required>
+      <first-sync>true</first-sync>
+    </data-source>
+    <data-source name="Django default" uuid="3bd0d158-7242-47ed-ba87-5cc5aa24d3b3">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <auth-required>false</auth-required>
+      <first-sync>true</first-sync>
+    </data-source>
+  </component>
+</project>
